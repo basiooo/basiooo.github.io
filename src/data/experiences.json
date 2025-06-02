@@ -1,0 +1,43 @@
+[
+    {
+        "title": "Full Stack Web Developer",
+        "company": "CV Adisatya IT Consultant",
+        "period": "March 2022 - May 2022",
+        "type": "Internship",
+        "description": "Developed a marketing automation application using Django framework and Selenium for automating contact form submissions across multiple websites with proxy rotation for efficient web scraping.",
+        "location": "Kediri, Indonesia",
+        "items": [
+            "Develop automation tools using Selenium for automated form submissions",
+            "Implemented proxy rotation system to avoid IP blocking during scraping"
+        ]
+    },
+    {
+        "title": "Full Stack Web Developer",
+        "company": "CV Adisatya IT Consultant",
+        "period": "June 2022 - June 2024",
+        "type": "Full Time",
+        "description": "Developed and maintained various web applications using Python, PHP, JavaScript, and GoLang, working on both new and existing projects. Focused on delivering high-quality code through comprehensive testing.",
+        "location": "Kediri, Indonesia",
+        "items": [
+            "Developed and maintained web applications with Python, PHP, JavaScript, and GoLang",
+            "Implemented unit tests and end-to-end testing suites",
+            "Fixed bugs and improved functionality in existing applications",
+            "Implemented best practices for code quality and performance"
+        ]
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "BlueRayCargo.ID | PT Torion Express Indonesia",
+        "period": "July 2024 - Now",
+        "type": "Full Time",
+        "description": "Developed and maintained various web applications using Python, PHP, and JavaScript, working on both new and existing projects. Focused on delivering high-quality code through comprehensive testing.",
+        "location": "Jakarta, Indonesia",
+        "items": [
+            "Developed and maintained applications with Python, PHP, and JavaScript",
+            "Achieved 85% unit test coverage to improve code reliability and reduce production issues",
+            "Fixed bugs and improved functionality in existing applications",
+            "Implemented best practices for code quality and performance",
+            "Collaborated with business analysts, mobile developers, and quality assurance teams to deliver integrated and high-quality applications"
+        ]
+    }
+]
