@@ -37,7 +37,6 @@ const About: React.FC = () => {
         { name: 'TailwindCSS', category: 'framework' }, 
         { name: 'Bootstrap', category: 'framework' }, 
         { name: 'Daisy UI', category: 'framework' }, 
-        { name: 'React Native', category: 'framework' }, 
         { name: 'NextJS', category: 'framework' },
         { name: 'VueJS', category: 'framework' },
         { name: 'Jquery', category: 'framework' },
@@ -52,7 +51,6 @@ const About: React.FC = () => {
         { name: 'CI/CD', category: 'other' },
         { name: 'Nginx', category: 'other' },
 
-        { name: 'REST API', category: 'other' },
         { name: 'Git', category: 'other' }
     ];
 
@@ -93,7 +91,7 @@ const About: React.FC = () => {
                                     </div>
                                 </div>
                                 <div className="text-center md:text-left">
-                                    <h3 className="card-title text-2xl font-bold ">Bagas Julianto</h3>
+                                    <h3 className="text-2xl font-bold ">Bagas Julianto</h3>
                                     <p className="font-medium mb-4">Full Stack Web Developer</p>
                                     <div className="flex justify-center md:justify-start space-x-6">
                                         <a
