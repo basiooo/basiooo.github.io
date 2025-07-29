@@ -142,7 +142,7 @@ const About: React.FC = () => {
                                 <h3 className="text-2xl font-semibold mb-4">Summary</h3>
                                 <p className="text-base-content/80 leading-relaxed mb-8">
                                 Full Stack Developer with expertise in building scalable web applications and RESTful APIs.
-                                Proficient in Python, JavaScript, PHP, and Go, with experience in frameworks such as Django, FastAPI, Flask, Laravel, React, and Express.
+                                Proficient in Python, JavaScript, PHP, and Go, with experience in frameworks such as Django, FastAPI, Flask, Laravel, Go Fiber, React, Vue, and Express.
                                 Skilled in database design and optimization using both SQL and NoSQL solutions.
                                 Experienced in implementing CI/CD pipelines and containerized deployments using Docker.
                                 Enjoys tackling new challenges, passionate about writing clean, maintainable code, and continuously learning new technologies to enhance development efficiency.
