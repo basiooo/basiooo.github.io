@@ -7,8 +7,9 @@
         "description": "Developed a marketing automation application using Django framework and Selenium for automating contact form submissions across multiple websites with proxy rotation for efficient web scraping.",
         "location": "Kediri, Indonesia",
         "items": [
-            "Develop automation tools using Selenium for automated form submissions",
-            "Implemented proxy rotation system to avoid IP blocking during scraping"
+            "Developed a marketing automation application using Django framework and Selenium for automating contact form submissions across multiple websites",
+            "Integrated Celery for scheduling and parallel task execution.",
+            "Implemented proxy rotation system to avoid IP blocking"
         ]
     },
     {
@@ -33,7 +34,7 @@
         "description": "Developed and maintained various web applications using Python, PHP, and JavaScript, working on both new and existing projects. Focused on delivering high-quality code through comprehensive testing.",
         "location": "Jakarta, Indonesia",
         "items": [
-            "Developed and maintained applications with Python, PHP, and JavaScript",
+            "Developed and maintained web applications with Python, PHP, JavaScript, and GoLang",
             "Achieved 85% unit test coverage to improve code reliability and reduce production issues",
             "Fixed bugs and improved functionality in existing applications",
             "Implemented best practices for code quality and performance",

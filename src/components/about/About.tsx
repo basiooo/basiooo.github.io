@@ -30,13 +30,13 @@ const About: React.FC = () => {
         { name: 'Go Fiber', category: 'framework' },
         { name: 'Hapi', category: 'framework' },
         { name: 'ExpressJS', category: 'framework' },
-        { name: 'ReactJS', category: 'framework' }, 
-        { name: 'Redux', category: 'framework' }, 
-        { name: 'Zustand', category: 'framework' }, 
-        { name: 'SWR', category: 'framework' }, 
-        { name: 'TailwindCSS', category: 'framework' }, 
-        { name: 'Bootstrap', category: 'framework' }, 
-        { name: 'Daisy UI', category: 'framework' }, 
+        { name: 'ReactJS', category: 'framework' },
+        { name: 'Redux', category: 'framework' },
+        { name: 'Zustand', category: 'framework' },
+        { name: 'SWR', category: 'framework' },
+        { name: 'TailwindCSS', category: 'framework' },
+        { name: 'Bootstrap', category: 'framework' },
+        { name: 'Daisy UI', category: 'framework' },
         { name: 'NextJS', category: 'framework' },
         { name: 'VueJS', category: 'framework' },
         { name: 'Jquery', category: 'framework' },
@@ -141,11 +141,12 @@ const About: React.FC = () => {
                             <div>
                                 <h3 className="text-2xl font-semibold mb-4">Summary</h3>
                                 <p className="text-base-content/80 leading-relaxed mb-8">
-                                Full Stack Developer with expertise in building scalable web applications and RESTful APIs.
-                                Proficient in Python, JavaScript, PHP, and Go, with experience in frameworks such as Django, FastAPI, Flask, Laravel, Go Fiber, React, Vue, and Express.
-                                Skilled in database design and optimization using both SQL and NoSQL solutions.
-                                Experienced in implementing CI/CD pipelines and containerized deployments using Docker.
-                                Enjoys tackling new challenges, passionate about writing clean, maintainable code, and continuously learning new technologies to enhance development efficiency.
+                                    Full Stack Web Developer with 3 year experience in building scalable web applications and RESTful APIs.
+                                    Proficient in Python, JavaScript, PHP, and Go, with experience in frameworks such as Django, FastAPI, Flask,
+                                    Laravel, Go Fiber, React, Vue, and Express. Skilled in database design and optimization using both SQL and
+                                    NoSQL solutions. Experienced in implementing CI/CD pipelines, writing tested and reliable code and
+                                    containerized deployments using Docker. Enjoys tackling new challenges, passionate about writing clean,
+                                    maintainable code, and continuously learning new technologies to enhance development efficiency.
                                 </p>
                                 <div className="mt-8 relative">
                                     <h4 className="text-xl font-semibold mb-4">Technical Skills</h4>
