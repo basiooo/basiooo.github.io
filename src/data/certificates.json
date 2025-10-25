@@ -180,5 +180,12 @@
         "date": "04-2025",
         "url": "https://www.dicoding.com/certificates/JMZVEJW2OPN9",
         "image": "/image/dicoding.png"
+    },
+    {
+        "name": "Working with Microservices in Go (Golang)",
+        "provider": "Udemy",
+        "date": "09-2025",
+        "url": "https://www.dicoding.com/certificates/JMZVEJW2OPN9",
+        "image": "/image/udemy.png"
     }
 ]
